@@ -1,0 +1,2 @@
+# CMakeNotes
+Record Learning Cmake 
